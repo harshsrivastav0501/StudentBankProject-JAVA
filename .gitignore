@@ -1,0 +1,14 @@
+# Java compiled files
+*.class
+out/
+
+# Runtime data
+bank-data.ser
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
